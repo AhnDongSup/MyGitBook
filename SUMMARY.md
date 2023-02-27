@@ -4,6 +4,7 @@
 
 ## frontend
 
-* [HTML](frontend/html.md)
+* [HTML](frontend/html/README.md)
+  * [1일차](frontend/html/1.md)
 * [CSS](frontend/css.md)
 * [JavaScript](frontend/javascript.md)
